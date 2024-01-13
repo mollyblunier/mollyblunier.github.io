@@ -1,0 +1,39 @@
+
+header {
+    background-color: #3E5C75;
+    padding: 3rem;
+    text-align:left;
+    font-size: 35 px;
+    color: white;
+}
+
+header img {
+    align: flex;
+}
+
+section {
+    background-color:#EFF1F0;
+    padding: 1rem;
+    text-align: left;
+    font-size:16px;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+
+footer {
+    background-color:#1C2B45;
+    height:2.5rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color: #EFF1F0
+
+}
+
+.contact {
+    padding-bottom:3rem;
+}
